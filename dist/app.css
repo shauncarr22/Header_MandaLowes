@@ -1,0 +1,184 @@
+
+     html {
+  overflow-x: hidden;
+  width: 100%;
+}  
+ body{
+  margin: 0%;
+  padding: 0%;
+  background-color: red;
+  overflow-x: hidden;
+  width: 100%
+  font-family: Helvetica,Arial,sans-serif;
+}  
+
+.active {
+  padding: 14px 16px;
+  height: 40px;
+  float: left;
+  text-decoration: none;
+  color: black;
+  display: block;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 21px;
+  left: 188px;
+  top: 26px;
+  position: relative;
+  padding: 0px 26px;
+  
+}
+
+.top-bar{
+  background-color: #435145;
+  color: #ffffff;
+   margin: 0px;
+  padding: 0px;
+  height: 33px;
+  left: 20px;
+}
+
+.lower-top-bar{
+  margin: 0px;
+  height: 114px;
+  background-color: white;
+}
+
+
+.search_bar{
+  position: relative;
+  float: right;
+  right: 259px;
+  align-content: center;
+  top: 12px;
+  width: 410px;
+  height: 49px;
+  padding-left: 25px;
+  border-left:none;
+  border: 1px solid #dfdfdf;
+  font-size: 17px;
+}
+
+.lowes {
+  position: relative;
+  right: 231px;
+  top: -3px;
+  width: 81px;
+  height: 80px;
+}
+
+.cart{
+  position: relative;
+  left: 870px;
+  width: 28px;
+  height: 28px;
+  margin: 0px;
+  top: -30px;
+}
+
+.person-icon{
+  position: relative;
+  left: 825px;
+  width: 28px;
+  height: 28px;
+  margin: 0px;
+  top: -30px;
+}
+
+.top-bar-loc{
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  left: 80px;
+  top: 5px;
+  font-size: 17px;
+  font-weight: bold;
+  float: left;
+}
+
+.top-bar-hours{
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  left: 95px;
+  top: 5px;
+  font-size: 17px;
+}
+
+.down-arrow{
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  width: 24px;
+  height: 24px;
+  left: 410px;
+  top: -16px;
+}
+
+ .order-status {
+  position: relative;
+  width: 40px;
+  height: 24px;
+  left: 885px;
+  top: -21px;
+  color: white;
+  display: inline;
+  font-size: 18px;
+} 
+
+ .arrow {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  left: 768px;
+  top: -16px;
+ 
+}
+
+.credit-card-text {
+  position: relative;
+  left: 900px;
+  top: -22px;
+  color: white;
+  display: inline;
+  font-size: 18px;
+}
+
+
+  .credit-card-pic {
+  position: relative;
+  width: 19px;
+  height: 19px;
+  left: 680px;
+  top: -18px;
+  color: white;
+  display: inline;
+}     
+.graybar{
+  margin: 0%;
+  padding: 0%;
+  background-color: #e5e5e5;
+  position: relative;
+  height: 35px;
+
+}
+
+.graybar-link{
+  text-align: center;
+  position: relative;
+  left: 620px;
+  text-decoration: none;
+  color: #575757;
+  top: 07px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.graybar-link:hover {
+  color: black;
+  transition: ease-in-out 0.2s;
+}
+
+.bar{
+  margin: 0%;
+  padding: 0%;
+}
