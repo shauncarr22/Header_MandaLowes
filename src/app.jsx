@@ -68,7 +68,7 @@ class App extends Component {
 
                   <input type="text" className="search_bar" search-bar="search-bar" placeholder="What are you looking for today?" onChange={this.handleChange.bind(this)} />
 
-                  <img className="lowes" src="https://www.lowescdn.com/images/ui/LowesLogo.svg"/>
+                  <img className="lowes" src="https://i.imgur.com/zrxhtrj.png"/>
                   <img className="person-icon" src="http://cdn.onlinewebfonts.com/svg/img_415067.png"/>
                   <img className="cart" src="https://images.squarespace-cdn.com/content/v1/59e3968ef9a61e9f80411ea0/1554944273458-0N8GDL6ZU04RB3L25SJX/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/Shopping+Cart.png" />
                 </div>
